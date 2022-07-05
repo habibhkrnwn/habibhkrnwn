@@ -11,10 +11,9 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/habibhkrnwn)
+
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/habibhkrnwn)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/habibhkrnwn)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/habibhkrnwn)
 
 ### Languages and Tools:
