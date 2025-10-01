@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Habib Hammam Kurniawan
 
 🔬 Researcher in **Wireless Security, Python, and Machine Learning**.  
-🎓 Currently pursuing a **Master’s in Electrical Engineering (Machine Learning)** at Institut Teknologi Sepuluh Nopember (ITS).  
+🎓 Currently pursuing a **Master’s in Electrical Engineering** at Institut Teknologi Sepuluh Nopember (ITS).  
 💡 Focused on building secure communication systems, data-driven applications, and intelligent solutions.
 
 ---
@@ -17,3 +17,4 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibhkrnwn&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibhkrnwn&layout=compact&theme=radical)
+
